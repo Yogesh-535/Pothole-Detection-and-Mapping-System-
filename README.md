@@ -1,5 +1,5 @@
 # Pothole-Detection-System-
-ROS + Arduino-based Pothole Detection System for EY Techathon 2025
+ROS + Arduino-based Pothole Detection System for EY Techathon 6.0 2025
 
 
 This project is designed for **EY Techathon 6.0 2025**.  
