@@ -19,6 +19,6 @@ The system measures surface depth variations to identify road damages and create
 1.Green Laser + LIDAR measure road surface variations.
 2.Arduino collects sensor data and sends it to Raspberry Pi.
 3.Raspberry Pi processes data using ROS algorithms to detect potholes.
-Mapping module marks pothole positions 4.on a 2D/3D map.
+4.Mapping module marks pothole positions on a 2D/3D map.
 🏆 Developed For
 EY Techathon 6.0 2025
