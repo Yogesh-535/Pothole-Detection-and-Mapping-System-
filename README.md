@@ -24,4 +24,4 @@ The system measures surface depth variations to identify road damages and create
 4. Mapping module marks pothole positions on a 2D/3D map.
 
 ## 🏆 Developed For
-**EY Techathon 6.02025**
+**EY Techathon 6.0 2025**
