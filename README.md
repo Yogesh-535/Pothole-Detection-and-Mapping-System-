@@ -7,18 +7,18 @@ It detects potholes using LIDAR, Green Laser (Triangulation Method), Arduino, an
 The system measures surface depth variations to identify road damages and creates a road map.
 
 📂 Files Included
-codes.docx – Contains Arduino and Raspberry Pi (ROS) codes.
-mapping.docx – Contains mapping logic and related explanations.
+• codes.docx – Contains Arduino and Raspberry Pi (ROS) codes.
+• mapping.docx – Contains mapping logic and related explanations.
 ⚙️ Components Used
-Arduino Uno
-Raspberry Pi
-LIDAR Sensor
-Green Laser Module
-Power Supply / Battery
+• Arduino Uno
+• Raspberry Pi
+• LIDAR Sensor
+• Green Laser Module
+• Power Supply / Battery
 🚀 How It Works
-Green Laser + LIDAR measure road surface variations.
-Arduino collects sensor data and sends it to Raspberry Pi.
-Raspberry Pi processes data using ROS algorithms to detect potholes.
-Mapping module marks pothole positions on a 2D/3D map.
+1.Green Laser + LIDAR measure road surface variations.
+2.Arduino collects sensor data and sends it to Raspberry Pi.
+3.Raspberry Pi processes data using ROS algorithms to detect potholes.
+Mapping module marks pothole positions 4.on a 2D/3D map.
 🏆 Developed For
 EY Techathon 6.0 2025
